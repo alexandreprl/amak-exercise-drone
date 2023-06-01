@@ -1,0 +1,5 @@
+rootProject.name = 'amak-exercise-drone'
+
+// Uncomment the next two lines when building amak locally
+//include ':amak'
+//project(':amak').projectDir = new File(settingsDir, '../amak')
