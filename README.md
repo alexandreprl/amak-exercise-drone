@@ -1,6 +1,6 @@
 # README #
 
-This project has been made for the AMAS formation.
+This project has been made for the AMAS training.
 
 ## Getting started ##
 
